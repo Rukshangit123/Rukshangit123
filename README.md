@@ -1,5 +1,5 @@
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/8216bf2b-8b3c-4fcb-bf7a-49b20a9a697f" />
-## Hi there 👋
+## Hi👋
 
 <!--
 **Rukshangit123/Rukshangit123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
